@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.PortfolioAP</groupId>
-    <artifactId>mgb</artifactId>
+    <artifactId>PortfolioAP</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>PortfolioAP</name>
     <description>Portfolio Argentina Programa</description>
